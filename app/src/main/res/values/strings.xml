@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QReate</string>
+    <string name="qreate">Qreate</string>
+    <string name="choose_what_you_want_to_do">Choose what you want to do</string>
+    <string name="generate_a_qr_code">Generate a QR Code</string>
+    <string name="scan_a_qr_code">Scan a QR Code</string>
+    <string name="QReate">QReate</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="scan_completed">Scan Completed!</string>
+    <string name="descript">Description</string>
+    <string name="generate_qr">Generate QR</string>
+</resources>
